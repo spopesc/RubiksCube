@@ -20,4 +20,5 @@ Special thanks to @Acash2018 for helping me get the text on the buttons to rende
 ## Demo
 
 Here the program is used to perform an N perm (algorithm: R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R') to complete a partially solved Rubik's cube:
+
 ![demo](https://github.com/user-attachments/assets/97cf157e-edbd-4fc1-8266-bbd8d9f69188)
