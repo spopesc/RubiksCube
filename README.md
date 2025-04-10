@@ -15,7 +15,8 @@ This program is composed of three files:
 - `RubiksCube.py`: This file handles all internal logic related to the Rubik's cube, including storing the colors on the faces and the algorithms for turning each one.
 - `engine.py`: This file actually creates the `pygame` window and handles the logic that allows the simulation to run. To run the simulation, run `python3 engine.py`
 - `button.py`: Because the simulation itself is 3-D and can be dragged around, we need a separate class for all the buttons, which are 2-D and need to stay in place the whole time.
-Special thanks to @Acash2018 for helping me get the text on the buttons to render properly.
+
+Special thanks to [Acash2018](https://github.com/Acash2018) for helping me get the text on the buttons to render properly.
 
 ## Demo
 
